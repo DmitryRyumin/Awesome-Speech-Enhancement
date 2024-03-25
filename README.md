@@ -79,6 +79,19 @@
 
 ## Papers
 
+<a href="https://2024.ieeeicassp.org/">
+  <img src="http://img.shields.io/badge/ICASSP-2024-0073AE.svg" alt="Conference">
+</a>
+
+| **Title** | **Repo** | **Paper** | **Video** |
+|-----------|:--------:|:---------:|:---------:|
+| Diffusion-based Speech Enhancement in Matched and Mismatched Conditions using a Heun-based Sampler | :heavy_minus_sign: | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10446610-E4A42C.svg)](https://ieeexplore.ieee.org/document/10446610) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2312.02683-b31b1b.svg)](https://arxiv.org/abs/2312.02683) | :heavy_minus_sign: |
+| Unsupervised Speech Enhancement with Diffusion-based Generative Models | [![WEB Page](https://img.shields.io/badge/WEB-Page-159957.svg)](https://team.inria.fr/multispeech/demos/udiffse/) <br /> [![GitHub](https://img.shields.io/github/stars/joanne-b-nortier/UDiffSE?style=flat)](https://github.com/joanne-b-nortier/UDiffSE) | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10447736-E4A42C.svg)](https://ieeexplore.ieee.org/document/10447736) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2309.10450-b31b1b.svg)](https://arxiv.org/abs/2309.10450) | :heavy_minus_sign: |
+| Boosting Speech Enhancement with Clean Self-Supervised Features via Conditional Variational Autoencoders | [![GitHub](https://img.shields.io/github/stars/YoonhyungLee94/SSFCVAE?style=flat)](https://github.com/YoonhyungLee94/SSFCVAE) | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10447220-E4A42C.svg)](https://ieeexplore.ieee.org/document/10447220) | :heavy_minus_sign: |
+| Diffusion-based Speech Enhancement with a Weighted Generative-Supervised Learning Loss | [![GitHub](https://img.shields.io/github/stars/jeaneudesAyilo/weighted_generative_supervised_DiffSE?style=flat)](https://github.com/jeaneudesAyilo/weighted_generative_supervised_DiffSE) | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10446805-E4A42C.svg)](https://ieeexplore.ieee.org/document/10446805) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2309.10457-b31b1b.svg)](https://arxiv.org/abs/2309.10457) | :heavy_minus_sign: |
+| AV2WAV: Diffusion-based Re-Synthesis from Continuous Self-Supervised Features for Audio-Visual Speech Enhancement | [![WEB Page](https://img.shields.io/badge/WEB-Page-159957.svg)](https://home.ttic.edu/~jcchou/demo/avse/avse_demo.html) | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10446625-E4A42C.svg)](https://ieeexplore.ieee.org/document/10446625) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2309.08030-b31b1b.svg)](https://arxiv.org/abs/2309.08030) | :heavy_minus_sign: |
+| Seeing through the Conversation: Audio-Visual Speech Separation based on Diffusion Model | [![WEB Page](https://img.shields.io/badge/WEB-Page-159957.svg)](https://mm.kaist.ac.kr/projects/avdiffuss/) | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10447679-E4A42C.svg)](https://ieeexplore.ieee.org/document/10447679) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2310.19581-b31b1b.svg)](https://arxiv.org/abs/2310.19581) | :heavy_minus_sign: |
+
 ## Performance Measures
 
 ### SNR
