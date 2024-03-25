@@ -112,6 +112,9 @@
 
 [Code for SNR Calculation Examples](notebooks/SNR.ipynb)
 
+> [!NOTE]
+> It is important to understand that these ranges are approximate and can change depending on the specific application and quality requirements for speech enhancement. In addition, the perception of sound quality can be subjective and influenced by individual user preferences. In the context of the table provided, higher SNR values indicate better signal quality with less noise or interference.
+
 | SNR Range | Description |
 |-----------|-------------|
 | Very Low SNR (<0 dB) | The noise power exceeds the signal power. The signal is almost entirely masked by noise, making recovery or processing extremely difficult. |
