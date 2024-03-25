@@ -92,6 +92,10 @@
 | AV2WAV: Diffusion-based Re-Synthesis from Continuous Self-Supervised Features for Audio-Visual Speech Enhancement | [![WEB Page](https://img.shields.io/badge/WEB-Page-159957.svg)](https://home.ttic.edu/~jcchou/demo/avse/avse_demo.html) | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10446625-E4A42C.svg)](https://ieeexplore.ieee.org/document/10446625) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2309.08030-b31b1b.svg)](https://arxiv.org/abs/2309.08030) | :heavy_minus_sign: |
 | Seeing through the Conversation: Audio-Visual Speech Separation based on Diffusion Model | [![WEB Page](https://img.shields.io/badge/WEB-Page-159957.svg)](https://mm.kaist.ac.kr/projects/avdiffuss/) | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10447679-E4A42C.svg)](https://ieeexplore.ieee.org/document/10447679) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2310.19581-b31b1b.svg)](https://arxiv.org/abs/2310.19581) | :heavy_minus_sign: |
 
+<a href="#sections">
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" alt="" />
+</a>
+
 ## Performance Measures
 
 ### SNR
