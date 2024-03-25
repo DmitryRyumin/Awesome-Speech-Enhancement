@@ -68,6 +68,7 @@
 <summary>List of sections<a id="sections"></a></summary>
 
 - [Papers](#papers)
+- [Datasets](#datasets)
 - [Performance Measures](#performance-measures)
   - [Signal-to-Noise Ratio (SNR)](#snr)
 
@@ -90,6 +91,16 @@
 | Boosting Speech Enhancement with Clean Self-Supervised Features via Conditional Variational Autoencoders | [![GitHub](https://img.shields.io/github/stars/YoonhyungLee94/SSFCVAE?style=flat)](https://github.com/YoonhyungLee94/SSFCVAE) | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10447220-E4A42C.svg)](https://ieeexplore.ieee.org/document/10447220) | :heavy_minus_sign: |
 | Diffusion-based Speech Enhancement with a Weighted Generative-Supervised Learning Loss | [![GitHub](https://img.shields.io/github/stars/jeaneudesAyilo/weighted_generative_supervised_DiffSE?style=flat)](https://github.com/jeaneudesAyilo/weighted_generative_supervised_DiffSE) | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10446805-E4A42C.svg)](https://ieeexplore.ieee.org/document/10446805) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2309.10457-b31b1b.svg)](https://arxiv.org/abs/2309.10457) | :heavy_minus_sign: |
 | AV2WAV: Diffusion-based Re-Synthesis from Continuous Self-Supervised Features for Audio-Visual Speech Enhancement | [![WEB Page](https://img.shields.io/badge/WEB-Page-159957.svg)](https://home.ttic.edu/~jcchou/demo/avse/avse_demo.html) | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10446625-E4A42C.svg)](https://ieeexplore.ieee.org/document/10446625) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2309.08030-b31b1b.svg)](https://arxiv.org/abs/2309.08030) | :heavy_minus_sign: |
+
+<a href="#sections">
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" alt="" />
+</a>
+
+## Datasets
+
+| **Title** | **Homepage** | **Paper** |
+|-----------|:------------:|:---------:|
+| VoiceBank + DEMAND | [![Homepage](https://img.shields.io/badge/Homepage-001B37.svg)](https://datashare.ed.ac.uk/handle/10283/2791) | [![WEB Page](https://img.shields.io/badge/WEB-Page-159957.svg)](https://pubs.aip.org/asa/poma/article/19/1/035081/838946/The-Diverse-Environments-Multi-channel-Acoustic) |
 
 <a href="#sections">
   <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" alt="" />
