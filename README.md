@@ -71,6 +71,7 @@
 - [Datasets](#datasets)
 - [Performance Measures](#performance-measures)
   - [Signal-to-Noise Ratio (SNR)](#snr)
+  - [Signal-to-Distortion Ratio (SDR)](#sdr)
 
 </details>
 
@@ -122,6 +123,10 @@
 | Moderate SNR (10-20 dB) | These SNR values are considered acceptable for many signal processing applications. The signal contains a noticeable level of noise, but its quality is still sufficient for processing and perception. |
 | High SNR (20-30 dB) | High SNR values indicate good signal quality with a low noise level. Such signals are easily processed and perceived by humans. |
 | Very High SNR (>30 dB) | Very high SNR values correspond to signals with minimal noise levels. These signals are considered ideal for most signal processing applications. |
+
+### SDR
+
+[Code for SDR Calculation Examples](notebooks/SDR.ipynb)
 
 ---
 
