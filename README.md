@@ -128,6 +128,17 @@
 
 [Code for SDR Calculation Examples](notebooks/SDR.ipynb)
 
+> [!NOTE]
+> It is important to understand that these ranges are approximate and can change depending on the specific application and quality requirements for speech enhancement. In addition, the perception of sound quality can be subjective and influenced by individual user preferences. In the context of the table provided, higher SNR values indicate better signal quality with less distortion.
+
+| SDR Range | Description |
+|-----------|-------------|
+| Very Low SDR (<0 dB) | The distortion level exceeds the signal power. The signal is highly distorted, making it difficult to recover or process accurately. |
+| Low SDR (0-5 dB) | Low SDR values indicate the presence of significant distortion relative to the signal power. Processing and perception of such a signal can be challenging, requiring specialized distortion reduction methods. |
+| Moderate SDR (5-10 dB) | These SDR values indicate moderate distortion in the signal, which may degrade its quality, but still allows for some processing and perception. |
+| High SDR (10-15 dB) | High SDR values indicate good signal quality relative to the level of distortion. Such signals are relatively clean and easy to process. |
+| Very High SDR (>15 dB) | Very high SDR values correspond to signals with minimal distortion levels. These signals are considered ideal for most signal processing applications. |
+
 ---
 
 ## Star History
