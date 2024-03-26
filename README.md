@@ -105,7 +105,7 @@
 
 | **Title** | **Repo** | **Paper** |
 |-----------|:--------:|:---------:|
-| StoRM: A Diffusion-based Stochastic Regeneration Model for Speech Enhancement and Dereverberation | [![WEB Page](https://img.shields.io/badge/WEB-Page-159957.svg)](https://www.inf.uni-hamburg.de/en/inst/ab/sp/publications/storm.html) <br /> [![GitHub](https://img.shields.io/github/stars/sp-uhh/storm?style=flat)](https://github.com/) | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10180108-E4A42C.svg)](https://ieeexplore.ieee.org/document/10180108) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2212.11851-b31b1b.svg)](https://arxiv.org/abs/2212.11851) |
+| StoRM: A Diffusion-based Stochastic Regeneration Model for Speech Enhancement and Dereverberation ![Year](http://img.shields.io/badge/2023-0073AE.svg) | [![WEB Page](https://img.shields.io/badge/WEB-Page-159957.svg)](https://www.inf.uni-hamburg.de/en/inst/ab/sp/publications/storm.html) <br /> [![GitHub](https://img.shields.io/github/stars/sp-uhh/storm?style=flat)](https://github.com/) | [![IEEE Xplore](https://img.shields.io/badge/IEEE-10180108-E4A42C.svg)](https://ieeexplore.ieee.org/document/10180108) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2212.11851-b31b1b.svg)](https://arxiv.org/abs/2212.11851) |
 
 <a href="#sections">
   <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" alt="" />
