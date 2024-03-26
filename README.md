@@ -100,7 +100,7 @@
 ### Journals
 
 <a href="https://2024.ieeeicassp.org/">
-  <img src="http://img.shields.io/badge/IEEE%2FACM%20Transactions%20on%20Audio%2C%20Speech%2C%20and%20Language%20Processing-0073AE.svg" alt="Journal">
+  <img src="http://img.shields.io/badge/IEEE%2FACM%20Transactions%20on%20Audio%2C%20Speech%2C%20and%20Language%20Processing-14303E.svg" alt="Journal">
 </a>
 
 | **Title** | **Repo** | **Paper** |
