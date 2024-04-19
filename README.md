@@ -70,6 +70,7 @@
 - [Papers](#papers)
   - [Conferences](#conferences)
   - [Journals](#journals)
+- [Code](#code)
 - [Datasets](#datasets)
 - [Performance Measures](#performance-measures)
   - [Signal-to-Noise Ratio (SNR)](#snr)
@@ -118,6 +119,10 @@
 | **About** | **Repo** |
 |-----------|:--------:|
 | A Training Code Template for DNN-based Speech Enhancement | [![GitHub](https://img.shields.io/github/stars/Xiaobin-Rong/SEtrain?style=flat)](https://github.com/Xiaobin-Rong/SEtrain) |
+
+<a href="#sections">
+  <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/top.svg" alt="" />
+</a>
 
 ## Datasets
 
